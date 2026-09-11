@@ -1,0 +1,170 @@
+{
+  "machine-1-1": {
+    "latest_score": 0.9045,
+    "status": "WARNING",
+    "num_points": 28469,
+    "num_true_anomalies": 2694
+  },
+  "machine-1-2": {
+    "latest_score": 0.1853,
+    "status": "NORMAL",
+    "num_points": 23684,
+    "num_true_anomalies": 542
+  },
+  "machine-1-3": {
+    "latest_score": 0.8981,
+    "status": "WARNING",
+    "num_points": 23693,
+    "num_true_anomalies": 817
+  },
+  "machine-1-4": {
+    "latest_score": 0.6124,
+    "status": "WARNING",
+    "num_points": 23697,
+    "num_true_anomalies": 720
+  },
+  "machine-1-5": {
+    "latest_score": 0.3862,
+    "status": "NORMAL",
+    "num_points": 23696,
+    "num_true_anomalies": 100
+  },
+  "machine-1-6": {
+    "latest_score": 0.5514,
+    "status": "WARNING",
+    "num_points": 23679,
+    "num_true_anomalies": 3708
+  },
+  "machine-1-7": {
+    "latest_score": 0.1886,
+    "status": "NORMAL",
+    "num_points": 23687,
+    "num_true_anomalies": 2398
+  },
+  "machine-1-8": {
+    "latest_score": 0.219,
+    "status": "NORMAL",
+    "num_points": 23689,
+    "num_true_anomalies": 763
+  },
+  "machine-2-1": {
+    "latest_score": 0.4775,
+    "status": "NORMAL",
+    "num_points": 23684,
+    "num_true_anomalies": 1170
+  },
+  "machine-2-2": {
+    "latest_score": 1.0,
+    "status": "ANOMALY",
+    "num_points": 23690,
+    "num_true_anomalies": 2833
+  },
+  "machine-2-3": {
+    "latest_score": 0.546,
+    "status": "NORMAL",
+    "num_points": 23679,
+    "num_true_anomalies": 269
+  },
+  "machine-2-4": {
+    "latest_score": 0.4025,
+    "status": "NORMAL",
+    "num_points": 23679,
+    "num_true_anomalies": 1694
+  },
+  "machine-2-5": {
+    "latest_score": 0.3405,
+    "status": "NORMAL",
+    "num_points": 23679,
+    "num_true_anomalies": 980
+  },
+  "machine-2-6": {
+    "latest_score": 0.4506,
+    "status": "NORMAL",
+    "num_points": 28733,
+    "num_true_anomalies": 424
+  },
+  "machine-2-7": {
+    "latest_score": 0.35,
+    "status": "NORMAL",
+    "num_points": 23686,
+    "num_true_anomalies": 417
+  },
+  "machine-2-8": {
+    "latest_score": 0.8155,
+    "status": "WARNING",
+    "num_points": 23693,
+    "num_true_anomalies": 161
+  },
+  "machine-2-9": {
+    "latest_score": 0.9103,
+    "status": "WARNING",
+    "num_points": 28712,
+    "num_true_anomalies": 1755
+  },
+  "machine-3-1": {
+    "latest_score": 0.3581,
+    "status": "NORMAL",
+    "num_points": 28690,
+    "num_true_anomalies": 308
+  },
+  "machine-3-10": {
+    "latest_score": 0.9608,
+    "status": "WARNING",
+    "num_points": 23683,
+    "num_true_anomalies": 1047
+  },
+  "machine-3-11": {
+    "latest_score": 1.0,
+    "status": "WARNING",
+    "num_points": 28686,
+    "num_true_anomalies": 198
+  },
+  "machine-3-2": {
+    "latest_score": 0.9984,
+    "status": "WARNING",
+    "num_points": 23693,
+    "num_true_anomalies": 1109
+  },
+  "machine-3-3": {
+    "latest_score": 0.1297,
+    "status": "NORMAL",
+    "num_points": 23693,
+    "num_true_anomalies": 632
+  },
+  "machine-3-4": {
+    "latest_score": 0.3847,
+    "status": "NORMAL",
+    "num_points": 23677,
+    "num_true_anomalies": 977
+  },
+  "machine-3-5": {
+    "latest_score": 0.6042,
+    "status": "WARNING",
+    "num_points": 23681,
+    "num_true_anomalies": 426
+  },
+  "machine-3-6": {
+    "latest_score": 0.3957,
+    "status": "NORMAL",
+    "num_points": 28716,
+    "num_true_anomalies": 1194
+  },
+  "machine-3-7": {
+    "latest_score": 0.2548,
+    "status": "NORMAL",
+    "num_points": 28695,
+    "num_true_anomalies": 434
+  },
+  "machine-3-8": {
+    "latest_score": 0.2749,
+    "status": "NORMAL",
+    "num_points": 28694,
+    "num_true_anomalies": 1371
+  },
+  "machine-3-9": {
+    "latest_score": 0.8663,
+    "status": "WARNING",
+    "num_points": 28703,
+    "num_true_anomalies": 303
+  }
+}

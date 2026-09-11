@@ -1,0 +1,10 @@
+torch
+numpy
+pandas
+fastapi
+uvicorn[standard]
+pydantic
+streamlit
+streamlit-autorefresh
+plotly
+requests
