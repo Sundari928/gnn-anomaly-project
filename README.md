@@ -81,7 +81,7 @@ gnn_anomaly_project/
 
 ---
 
-## 📄 Resume Bullet Points (Ready to Copy-Paste!)
+## 📄 Highlights
 
 - **Server Monitoring & Anomaly Detection System using Graph Neural Networks (PyTorch, FastAPI, Streamlit)**
   - Engineered a multivariate time-series anomaly detection pipeline using a Graph Deviation Network (GDNLite) with GRU temporal encoders and Graph Attention Networks (GAT) trained on the Server Machine Dataset (SMD, 28 machines × 38 metrics).
